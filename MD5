@@ -1,6 +1,5 @@
-f340bdff6aed6e2d95ad28314d815d11 *DESCRIPTION
+2abf7da77d65fb84710a97656fe66adb *DESCRIPTION
 31891d8b434623f153a081224077ac64 *NAMESPACE
-26b5aa8c8bb714845f9f3a173cba8b6b *NEWS.md
 ab78184382447fb38762eb3b3ae692b6 *R/draw_edges.r
 933fc4b4d46f97a78fbc112e49a275d5 *R/draw_key.r
 dc29618909c8b29da585fd466d22e110 *R/ecosystem_services.r
@@ -12,12 +11,11 @@ e188ee95f238644f1288288f66b4d7b8 *R/imports.r
 7580f08ed4e0e61157431ae76e81da5f *R/pivot_stages.r
 78f9d88833c69c302540aadf5ba25ced *R/position.r
 b2a2ace272429b422623da6567538fef *R/position_helpers.r
-f3ae8215b17fccd8a24098d8579e6ce2 *R/scale_waist.r
+74d48b7195a6de3fba65d2efcd16cd22 *R/scale_waist.r
 3ba22e5ad8d2703ee7ba9c5262ccf764 *R/short_cuts.r
 40c9b9f9ce2742c8a6478fcd529c80e3 *R/stat_edge.r
 7defa2a92c7addc4a6c857f00288bd19 *R/stat_node.r
 0f44ec4ac5fdad78abe1c6d0c658ba50 *R/stat_node_helpers.r
-de6e07206f9d09c1620ef50592702fc0 *README.md
 b943a1546a1e17be4eea235ec7b4616b *build/partial.rdb
 8b087448c4ea46f7cb26aa2e22d7283c *build/vignette.rds
 54afd99fb264f659b4027fb3451f235a *data/ecosystem_services.rdata
@@ -35,8 +33,8 @@ fd22a8c9619ed676a325885db957e84c *inst/doc/positioning.Rmd
 88c1d5df9ad3aad41176a3e0a73c7741 *inst/doc/positioning.html
 32a60b1d6ec26f2029a4906812f42ae9 *man/draw_key.Rd
 c8918c8c220644da3b69b5ff75f48aef *man/ecosystem_services.Rd
-393f4404ae78a7fb0b8c9a7498ae2b4e *man/figures/README-general_illustration-1.svg
-60e26a698c8e047fdecaaf1b132ca3ea *man/figures/important_aspects.svg
+2cc60fb948b22a859b0ad9f9daeeecd4 *man/figures/README-general_illustration-1.svg
+2c4c9e378fff581515ca3cc675f8b7f0 *man/figures/important_aspects.svg
 b2a90ea1c85d04fb806a25bd98a60f73 *man/figures/logo.png
 ffa5567d70d9283f0e3a32bae9477d08 *man/figures/logo.svg
 cf02783f5857cf1d44f833bf7ba6db79 *man/geom_sankeyedge.Rd
@@ -44,7 +42,7 @@ cf02783f5857cf1d44f833bf7ba6db79 *man/geom_sankeyedge.Rd
 c12abb97816d95dfb6b2d64dd8275dc9 *man/ggsankeyfier-package.Rd
 1ee34d3aec6dc589bad247334796ee3c *man/pivot_stages_longer.Rd
 5b874a906674516b3930b64089397239 *man/position_sankey.Rd
-6bbc74e7ea45cc3a3ee6186c598a2985 *man/scale_waist.Rd
+d5debbda2d4705d7505b8676eed04682 *man/scale_waist.Rd
 fd90a86c1d52c1cbea67b5c4450e3bf0 *man/stat_sankey.Rd
 b82ac0bc78cddd0b9d42f2404f2de083 *tests/testthat.R
 b624500fd572561587ab65528f4c6b15 *tests/testthat/_snaps/plots/ggsankeyfier-feedback.svg
